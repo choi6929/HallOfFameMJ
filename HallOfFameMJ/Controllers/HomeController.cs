@@ -8,6 +8,8 @@ namespace HallOfFameMJ.Controllers
 {
     public class HomeController : Controller
     {
+        // test comment
+
         public ActionResult Index()
         {
             return View();
