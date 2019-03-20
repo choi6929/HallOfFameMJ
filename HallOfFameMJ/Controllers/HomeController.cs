@@ -10,6 +10,7 @@ namespace HallOfFameMJ.Controllers
     {
         // test comment
         // test comment 2
+        // text comment 3
 
         public ActionResult Index()
         {
