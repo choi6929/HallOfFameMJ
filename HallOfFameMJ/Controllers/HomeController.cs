@@ -9,6 +9,7 @@ namespace HallOfFameMJ.Controllers
     public class HomeController : Controller
     {
         // test comment
+        // test comment 2
 
         public ActionResult Index()
         {
