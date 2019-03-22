@@ -10,7 +10,8 @@ namespace HallOfFameMJ.Controllers
     {
         // test comment
         // test comment 2
-        // text comment 3
+        // test comment 3 - created a branch
+        // test comment 4 - merge
 
         public ActionResult Index()
         {
