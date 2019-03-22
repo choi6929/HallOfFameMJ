@@ -9,7 +9,7 @@ namespace HallOfFameMJ.Controllers
     public class HomeController : Controller
     {
         // test comment
-
+        //test comment - from browser
         public ActionResult Index()
         {
             return View();
