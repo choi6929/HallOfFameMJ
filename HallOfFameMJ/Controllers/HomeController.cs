@@ -8,10 +8,7 @@ namespace HallOfFameMJ.Controllers
 {
     public class HomeController : Controller
     {
-        // test comment
-        //test comment - from browser
-        // test from home
-        // test 2 from home
+        //test commit from local dev
 
         public ActionResult Index()
         {
