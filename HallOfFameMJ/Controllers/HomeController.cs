@@ -15,7 +15,7 @@ namespace HallOfFameMJ.Controllers
         {
             return View();
         }
-
+        //test comment from local master
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
