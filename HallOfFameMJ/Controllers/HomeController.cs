@@ -9,12 +9,14 @@ namespace HallOfFameMJ.Controllers
     public class HomeController : Controller
     {
         //test commit from local dev
+        
 
         public ActionResult Index()
         {
             return View();
         }
         //test comment from local master
+        // test from master 
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page!!!";
