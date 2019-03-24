@@ -8,9 +8,8 @@ namespace HallOfFameMJ.Controllers
 {
     public class HomeController : Controller
     {
-        // test comment
-        //test comment - from browser
-        // test from home
+        //test commit from local dev
+
         public ActionResult Index()
         {
             return View();
@@ -18,7 +17,7 @@ namespace HallOfFameMJ.Controllers
         //test comment from local master
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Your application description page!!!";
 
             return View();
         }
