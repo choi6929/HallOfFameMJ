@@ -9,8 +9,7 @@ namespace HallOfFameMJ.Controllers
     public class HomeController : Controller
     {
         //test commit from local dev
-        
-
+        // test from dev2
         public ActionResult Index()
         {
             return View();
