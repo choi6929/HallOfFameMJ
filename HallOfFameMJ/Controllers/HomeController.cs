@@ -10,6 +10,7 @@ namespace HallOfFameMJ.Controllers
     {
         // test comment
         //test comment - from browser
+        // test from home
         public ActionResult Index()
         {
             return View();
