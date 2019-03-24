@@ -9,11 +9,6 @@ namespace HallOfFameMJ.Controllers
     public class HomeController : Controller
     {
         // test comment
-        // test comment 2
-        // test comment 3 - created a branch
-        // test comment 4 - merge
-        // test comment 5
-        // test comment 6
 
         public ActionResult Index()
         {
